@@ -41,9 +41,9 @@ public class pet_parlourTest {
     public void testIdentity() {
         assertSame(petOut, petIn);
     }
-    
-    @Disabled("Disabled until system is fully operational.")
+   
     @Test
+    @Disabled("Disabled until system is fully operational.")
     public void testEquality() {
         fail("Deliberately set to fail");
         assertEquals(petIn, petOut);
