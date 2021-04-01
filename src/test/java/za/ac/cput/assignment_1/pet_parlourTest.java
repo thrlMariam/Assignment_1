@@ -44,7 +44,7 @@ public class pet_parlourTest {
     
     @Disabled("Disabled until system is fully operational.")
     @Test
-    public void testEquals() {
+    public void testEquality() {
         fail("Deliberately set to fail");
         assertEquals(petIn, petOut);
     }
