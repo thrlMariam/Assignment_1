@@ -10,7 +10,11 @@
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
+<<<<<<< HEAD
       <build>
+=======
+    <build>
+>>>>>>> 2f0bcda08ae2052e1bdaed20d1f55a4b98c0d7d6
         <pluginManagement>
           <plugins>
             <plugin>
@@ -20,7 +24,11 @@
             </plugin>
           </plugins>
         </pluginManagement>
+<<<<<<< HEAD
       </build>
+=======
+    </build>
+>>>>>>> 2f0bcda08ae2052e1bdaed20d1f55a4b98c0d7d6
     <dependencies>
         <!-- https://mvnrepository.com/artifact/commons-validator/commons-validator -->
         <dependency>
