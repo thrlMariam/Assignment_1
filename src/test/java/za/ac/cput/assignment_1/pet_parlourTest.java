@@ -3,6 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/**
+ *
+ * @author Rhegan - 219273693
+ */
+
 package za.ac.cput.assignment_1;
 
 import org.junit.jupiter.api.AfterEach;
